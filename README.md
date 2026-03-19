@@ -1,1 +1,1 @@
-### Thingking Machine
+### Language Machine

@@ -1,45 +1,45 @@
 ---
 layout: home
-title: Thingking Machine
+title: Language Machine
 ---
-# Thingking Machine
+# Language Machine
 
 <pre>
   A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
 </pre>
 
-[Thingking-Machine (meta)](https://thingking-machine.github.io/meta/)
+[Language-Machine (meta)](https://language-machine.github.io/meta/)
 
-[Thingking-Machine (gemini)](https://thingking-machine.github.io/gemini/)
+[Language-Machine (gemini)](https://language-machine.github.io/gemini/)
 
-[Thingking-Machine (geminit)](https://thingking-machine.github.io/geminit/)
+[Language-Machine (geminit)](https://language-machine.github.io/geminit/)
 
-[Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
+[Language-Machine (openai)](https://language-machine.github.io/openai/)
 
-[Thingking-Machine (openaic)](https://thingking-machine.github.io/openaic/)
+[Language-Machine (openaic)](https://language-machine.github.io/openaic/)
 
-[Thingking-Machine (oaio)](https://thingking-machine.github.io/oaio/)
+[Language-Machine (oaio)](https://language-machine.github.io/oaio/)
 
-[Thingking-Machine (grok)](https://thingking-machine.github.io/grok/)
+[Language-Machine (grok)](https://language-machine.github.io/grok/)
 
-[Thingking-Machine (grokf)](https://thingking-machine.github.io/grokf/)
+[Language-Machine (grokf)](https://language-machine.github.io/grokf/)
 
-[Thingking-Machine (grokc)](https://thingking-machine.github.io/grokc/)
+[Language-Machine (grokc)](https://language-machine.github.io/grokc/)
 
-[Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
+[Language-Machine (fireworks)](https://language-machine.github.io/fireworks/)
 
-[Thingking-Machine (fireworksr)](https://thingking-machine.github.io/fireworksr/)
+[Language-Machine (fireworksr)](https://language-machine.github.io/fireworksr/)
 
-[Thingking-Machine (fireworkc)](https://thingking-machine.github.io/fireworkc/)
+[Language-Machine (fireworkc)](https://language-machine.github.io/fireworkc/)
 
-[Thingking-Machine (depsek)](https://thingking-machine.github.io/depsek/)
+[Language-Machine (depsek)](https://language-machine.github.io/depsek/)
 
-[Thingking-Machine (depsekc)](https://thingking-machine.github.io/depsekc/)
+[Language-Machine (depsekc)](https://language-machine.github.io/depsekc/)
 
-[Thingking-Machine (depsekr)](https://thingking-machine.github.io/depsekr/)
+[Language-Machine (depsekr)](https://language-machine.github.io/depsekr/)
 
-[Thingking-Machine (depsekrp)](https://thingking-machine.github.io/depsekrp/)
+[Language-Machine (depsekrp)](https://language-machine.github.io/depsekrp/)
 
 
 
-Thingking-Machine is just one of participants of the [Multilogue](multilogue)
+Language-Machine is just one of participants of the [Multilogue](multilogue)
