@@ -1,1 +1,1 @@
-### Language Machine (chinfrp)
+### Language Machine
